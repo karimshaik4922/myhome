@@ -1,1 +1,1 @@
-sofa
+chairs,sofa
